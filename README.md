@@ -1,26 +1,49 @@
-# 🧠 Quiz in Python
+<div align="center">
 
-A simple **Python** quiz game that asks programming questions, checks answers, and shows the final score at the end.
+# 🧠 Python Knowledge Quiz
 
-Fun, interactive, and great for practicing logic and loops 🎯
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/status-complete-brightgreen?style=flat-square"/>
+
+An interactive terminal quiz that asks basic Python questions, checks answers instantly, and scores the player at the end.
+
+</div>
 
 ---
 
-## 🚀 Features
+## 💡 About
 
-- Multiple-choice style questions (text input)
-- Instant feedback for each answer
-- Score calculation
+A small, fun project to practice control flow and state tracking (the running score) without a database or UI in the way — just clean logic.
+
+## ✨ Features
+
+- Multiple text-input questions on core Python concepts
+- Instant feedback per answer
+- Running score calculation
 - Final performance message:
   - 🏆 Perfect score
   - 💪 Good performance
   - 😉 Keep practicing
-- Option to play again
+- Replay option at the end
+
+## ▶️ How to run
+
+```bash
+git clone https://github.com/CaioFrancisco/Project_QUIZ_Python.git
+cd Project_QUIZ_Python
+python quiz_conhecimento.py
+```
+
+## 🧠 What I practiced
+
+- Loops and conditional branching
+- Tracking state (score) across iterations
+- Writing beginner-friendly, self-contained scripts
 
 ---
 
-## ▶️ How to use
+<div align="center">
 
-1. Run the script in the terminal:
-   ```bash
-   python nome_do_arquivo.py
+Built by [Caio Francisco](https://github.com/CaioFrancisco) — part of my journey from fundamentals into Data Engineering.
+
+</div>
